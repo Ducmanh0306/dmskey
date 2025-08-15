@@ -1,0 +1,20 @@
+{
+  "licenses": [
+    {
+      "key": "DMS-PREMIUM-ABC123XYZ",
+      "username": "Customer Name",
+      "plan": "Premium",
+      "active": true,
+      "expires": "2025-12-31T23:59:59",
+      "hwid": null
+    },
+    {
+      "key": "DMS-STANDARD-DEF456UVW",
+      "username": "Another Customer", 
+      "plan": "Standard",
+      "active": true,
+      "expires": "2025-06-30T23:59:59",
+      "hwid": null
+    }
+  ]
+}
